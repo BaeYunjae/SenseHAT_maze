@@ -30,4 +30,4 @@ DFS, 다익스트라
 <br>
 
 ## 실행 결과
-![1000016029](https://github.com/BaeYunjae/SenseHAT_maze/assets/88019800/3f090664-d1e3-4cfe-86ee-de43c025805a)
+![result_img](https://github.com/BaeYunjae/SenseHAT_maze/assets/88019800/e89b56a2-f459-46da-9ba5-1bba10ccb11b)
