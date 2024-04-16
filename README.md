@@ -31,4 +31,4 @@ DFS, 다익스트라
 
 ## 실행 결과
 ![result_img](https://github.com/BaeYunjae/SenseHAT_maze/assets/88019800/e89b56a2-f459-46da-9ba5-1bba10ccb11b)
-![동영상 포함된 노션 링크](https://mirage-condor-a70.notion.site/0416-SenseHAT-94c366ab58ac4a81b96bbfa5fc2dc86d?pvs=4)
+[동영상 포함된 노션 링크](https://mirage-condor-a70.notion.site/0416-SenseHAT-94c366ab58ac4a81b96bbfa5fc2dc86d?pvs=4)
